@@ -1,7 +1,7 @@
 # Tableau-Desktop-Specialist
 
 Tutorial: Get Started with Tableau Desktop [Link](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
-<br>
+<br><br>
 Step 1: Connect to your data<br>
 Step 2: Drag and drop to take a first look<br>
 Step 3: Focus your results<br>
