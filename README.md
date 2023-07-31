@@ -3,6 +3,8 @@
 Tutorial: Get Started with Tableau Desktop [Link](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
 
 Tableau Desktop Specialist Practice Questions [Link](https://learningtableau.com/specialist-practice-questions/)
+
+Tableau Desktop Exam Guide [Link](https://www.tableau.com/learn/certification/tableau-desktop-specialist-exam-guide)
 <br><br>
 Step 1: Connect to your data<br>
 Step 2: Drag and drop to take a first look<br>
